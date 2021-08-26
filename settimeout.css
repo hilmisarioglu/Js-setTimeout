@@ -1,0 +1,23 @@
+input {
+    position: absolute;
+    left: 230px;
+    top: 30px;
+    width: 50px;
+    height: 20px;
+    padding: 0px;
+    font-size: 14pt;
+    border: solid 0.5px #000;
+    
+}
+button {
+    position: absolute;
+    left: 290px;
+    top: 30px;
+    width: 50px;
+    height: 20px;
+    padding: 0px;
+    font-size: 9pt;
+    border: solid 0.5px #000;
+    
+}
+  
